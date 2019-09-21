@@ -1,6 +1,6 @@
 # Objetivos
 
-### 1. Aprender como representar un documento a un vector.
+### 1. Aprender como representar un documento como un vector.
 
 
 ### 2. Conocer algunas aplicaciones de textmining tales como:
@@ -16,7 +16,7 @@
 
 #### ¿Por qué los datos no estructurados son tan importantes?
 
-Las empresas están tomando decisiones solo con el 20% de la información a la que tienen acceso, ya que el 80% de su información es no estructurada y no se puede utilizar completamente. Las compañías han tratado de darle sentido a los datos no estructurados por años, pero solo un 78\% afirma que tienen poca o nula información de sus datos no estructurados.
+Las empresas están tomando decisiones solo con el 20% de la información a la que tienen acceso, ya que el 80% de su información es no estructurada y no se puede utilizar completamente. Las compañías han tratado de darle sentido a los datos no estructurados por años, pero solo un 78% afirma que tienen poca o nula información de sus datos no estructurados.
 
 http://fredrikstenbeck.com/unstructured-data-important/
 
