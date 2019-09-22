@@ -46,16 +46,16 @@ Ejemplo de unigrams:
 ## Requisitos
 
 ```python
-- python                    3.7.3
-- numpy                     1.16.4
-- pandas                    0.24.2
-- matplotlib                3.1.0
-- scikit-learn              0.21.2
-- numba                     0.44.1
-- joblib                    0.13.2
-- gensim                    3.4.0
-- nltk                      3.4.4
-- spacy                     2.1.8
-- pyemd                     0.5.1
-- pyldavis                  2.1.2
+- python                    3.7
+- numpy                     1.16
+- pandas                    0.24
+- matplotlib                3.1
+- scikit-learn              0.21
+- numba                     0.44
+- joblib                    0.13
+- gensim                    3.4
+- nltk                      3.4
+- spacy                     2.1
+- pyemd                     0.5
+- pyldavis                  2.1
 ```
