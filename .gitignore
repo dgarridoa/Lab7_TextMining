@@ -7,3 +7,6 @@ papers.csv
 *.index
 *.dict
 *.model
+*.npy
+*.id2word
+*.state
