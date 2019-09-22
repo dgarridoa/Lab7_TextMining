@@ -60,5 +60,10 @@ Ejemplo de unigrams:
 - pyldavis                  2.1
 ```
 
-## Nota
-Para visualizar en el repo la visualización de LDA ir a http://htmlpreview.github.io/ y pegar la url de ``lda.html`` que esta en la carpeta ``/img``.
+## Notas
+
+1. Para el capítulo de Information Retrieval es necesario descargar ``FastText embeddings from SBWC`` en el siguiente link de descarga https://github.com/dccuchile/spanish-word-embeddings.
+  - Existen dos formas de cargar los vectores, primero es cargar todos los vectores desde el archivo binario (.bin) en su formato nativo de FastText (**opción recomendada**). Esta opción es más demandante en recursos (tiempo y memoria), pero es mucho más versatil por ejemplo para obtener vectores para palabras que no se ecuentran en el vocabulario.
+  - La segunda forma, mucho más rápida, es cargar sólo una parte de los vectores. Para esto usamos el formato nativo de word2vec y cargamos una cantidad fija de vectores (se pueden cargar vectores generados por diversos métodos como FastText).
+
+2. Para visualizar en el repo la visualización de LDA ir a http://htmlpreview.github.io/ y pegar la url de ``lda.html`` que esta en la carpeta ``/img``.
