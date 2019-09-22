@@ -59,3 +59,6 @@ Ejemplo de unigrams:
 - pyemd                     0.5
 - pyldavis                  2.1
 ```
+
+## Nota
+Para visualizar en el repo la visualización de LDA ir a http://htmlpreview.github.io/ y pegar la url de ``lda.html`` que esta en la carpeta ``/img``.
