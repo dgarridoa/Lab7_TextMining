@@ -1,7 +1,7 @@
 *.bin
 *.pkl
 *.vec
-Laboratorio_7_TextMining.ipynb
+Laboratorio_7_TextMining_Solucion.ipynb
 papers.csv
 *.mm
 *.index
@@ -10,4 +10,4 @@ papers.csv
 *.npy
 *.id2word
 *.state
-/blib
+/bib
